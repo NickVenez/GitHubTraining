@@ -37,3 +37,5 @@ Check that the new content is committed to the feature branch with an explicit a
 Check that git log shows the commit with your message and the previous commit
 Check that branch is visible on GitHub with modification
 Check That main Branch does not contain the modification
+
+Issues resolution
